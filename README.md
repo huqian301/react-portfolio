@@ -9,6 +9,11 @@ And I use Heroku to deployed my page.
 <li>Heroku link: https://react-portfolio-qian.herokuapp.com/</li>
 
 ## Output 
-Here is the [Video]() that shows all the processes.<br>
+Here is the [Video](https://drive.google.com/drive/folders/1criQYlA7dzgzG4M9ekAER7u1-LnfUMuz?usp=sharing) that shows entire page.<br>
+
+![video screenshot](public/img/video-screenshot.png) 
+
+
 The final page will be look like as below image.
-![html screenshot]()
+
+![html screenshot](public/img/react-portfolio-output.png) 
