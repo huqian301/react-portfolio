@@ -13,6 +13,20 @@ export default class Projects extends Component {
 						</div>
 					</div>
 					<div className="row">
+					<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<div className="project" style={{backgroundImage: 'url(img/iron.png)'}}>
+								<div className="desc">
+									<div className="con">
+										<h3><a href="work.html">Iron Dojo</a></h3>
+										<span>A web application that allows you to track your strength.</span>
+										<p className="icon">
+                                            <span><a href="https://the-iron-dojo.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /></a></span>
+											<span><a href="https://github.com/huqian301/strengthApp" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 							<div className="project" style={{backgroundImage: 'url(img/homechef-app.png)'}}>
 								<div className="desc">
@@ -97,6 +111,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</div>
+						
 					</div>
 				</div>
 			</section>
