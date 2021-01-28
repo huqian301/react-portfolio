@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/role-supports-aria-props */
 import React, { Component } from 'react'
 
 export default class Sidebar extends Component {
@@ -8,9 +9,10 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight"><br></br><br></br><br></br>
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(img/Qian.JPG)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(img/profile_pic.jpeg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Qian Hu</a></h1>
-              <span className="email"><i className="icon-mail"></i> huqian301@gmail.com</span>
+              <h5>Front End Developer</h5>
+              <span className="email"><i className="icon-mail"></i> huqian0301@gmail.com</span>
             </div><br/>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
