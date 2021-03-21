@@ -17,13 +17,13 @@ export default class About extends Component {
                     {/* <p>Recently earned a certificate in full-stack development from the UC Berkeley Extension, with newly developed skills in <code>JavaScript, CSS, React.js</code>, and responsive web design. Known as an innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. With each project, I aim to best engage my audience for an impactful user experience.
                     </p> */}
                     <p>
-                    As a computer science graduate, I'm excited to begin my new career as a web developer. My recently-finished Bootcamp experience has shaped my information architecture, data structure, and agile web development knowledge. With a strong interest in front-end/UI development, I am confident I can make an immediate contribution given the opportunity.
+                    As a computer science graduate, I'm excited to begin my new career as a web developer. My recently-finished Bootcamp experience has shaped my information architecture, data structure, and agile web development knowledge.
                     </p>
                     <p>
                     In my last team project, I was a front-end developer responsible for the application’s layout, the biggest challenge for our team was connect the front-end with the back-end. To work around issues, I translated the team’s wireframes and mockups into responsive, interactive features, demonstrating working knowledge with frontend technologies by using HTML/CSS, React, and JavaScript. I built a highly functional web app by user-friendly design to allow users to create a workout and track it weekly.
                     </p>
                     <p>
-                    I am a self-motivated web developer, eager for this opportunity to manage the coding, innovative design, and layout of Cozmo’s website. I can work alone but I also have great interpersonal skills that make it easy to work with a team both inside and outside the company.
+                    I am a self-motivated web developer, to manages coding, innovative design, and layout. I can work alone but I also have great interpersonal skills that make it easy to work with a team both inside and outside the company.
                     </p>
 {/* 
                     <p>I am a student that currently learning Full Stack at UC Berkeley Bootcamp. Self-driven individual with qualified understanding in the field of HTML and CSS.
