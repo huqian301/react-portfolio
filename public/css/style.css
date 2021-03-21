@@ -306,8 +306,10 @@ figure {
             text-align: center; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
-          padding: 0;
+          padding: 30px;
           color: #AFB42B;
+          background-color: rgba(238, 238, 238, 0.85);
+
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
