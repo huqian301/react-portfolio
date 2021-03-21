@@ -1,5 +1,4 @@
-## Student name: Qian Hu
-## Instructor: Emmanuel Jucaban
+
 ## Description
 The main idea of thisproject is using React to build a personal portfolio page, and the whole page also build with HTML5, CSS3, Jquery, Bootstrap.
 And I use Heroku to deployed my page.
