@@ -76,11 +76,11 @@ figure {
   padding-top: 1em;
   padding-bottom: 40px;
   float: left;
-  width: 300px;
+  width: 275px;
   position: fixed;
   overflow: scroll;
   z-index: 1001;
-  background: #f2f3f7;
+  background: #eee;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -157,7 +157,7 @@ figure {
             bottom: 7px;
             left: 0;
             right: 0;
-            background-color: #2c98f0;
+            background-color: #AFB42B;
             visibility: hidden;
             -webkit-transform: scaleX(0);
             -moz-transform: scaleX(0);
@@ -180,7 +180,7 @@ figure {
               -o-transform: scaleX(1);
               transform: scaleX(1); }
         #colorlib-aside #colorlib-main-menu ul li.active a {
-          color: #2c98f0; }
+          color: #AFB42B; }
           #colorlib-aside #colorlib-main-menu ul li.active a:after {
             visibility: visible;
             -webkit-transform: scaleX(1);
@@ -234,7 +234,7 @@ figure {
   }
 
 #colorlib-main {
-  width: calc(100% - 300px);
+  width: calc(100% - 275px);
   float: right;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -307,7 +307,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          color: #AFB42B;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;

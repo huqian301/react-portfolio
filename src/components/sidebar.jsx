@@ -18,7 +18,7 @@ export default class Sidebar extends Component {
               <div id="navbar" className="collapse">
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
-                  <li><a href="#about" data-nav-section="about">About</a></li>
+                  <li><a href="#about" data-nav-section="about">About Me</a></li>
                   <li><a href="#projects" data-nav-section="projects">Projects</a></li>
                   {/* <li><a href="#contact" data-nav-section="contact">Contact</a></li>   */}
                 </ul>
@@ -26,8 +26,6 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/attraversiamooh/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://www.instagram.com/huqqqian/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/qian-hu-33aa91132/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/huqian301" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
