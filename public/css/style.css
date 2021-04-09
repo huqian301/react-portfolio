@@ -1442,3 +1442,50 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+
+
+  .skill-header{
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 24px;
+    color:#AFB42B;
+  }
+
+  /* .skill-section{
+    display:grid;
+    grid-gap: 16px;
+    padding:16px;
+  } */
+
+  .skill-set{
+    padding:14px;
+    border-radius: 16px;
+  }
+
+  /* .skill-set :hover{
+    border-radius: 16px;
+    box-shadow: 0px 12px 16px #AFB42B ;
+  } */
+
+  .skill-span{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    font-size: 40px;
+    border-radius: 35%;
+    margin-inline: auto;
+    background-color: #AFB400;
+    color:#eee;
+  }
+
+  .skill-list{
+    padding-block: 8px;
+    display:grid;
+    grid-template-columns: 1fr 28px;
+    color: gray;
+    text-transform: uppercase;
+  }
