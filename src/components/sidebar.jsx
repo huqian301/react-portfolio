@@ -21,6 +21,7 @@ export default class Sidebar extends Component {
                   <li><a href="#about" data-nav-section="about">About Me</a></li>
                   <li><a href="#skills" data-nav-section="skills">Skills</a></li>
                   <li><a href="#projects" data-nav-section="projects">Projects</a></li>
+                  <li><a href="https://drive.google.com/file/d/1D29TKYSjCIMtjL9F3huXp1ZCMFOlbzOl/view?usp=sharing"  target="_blank" rel="noreferrer">Resume</a></li>
 
                   {/* <li><a href="#contact" data-nav-section="contact">Contact</a></li>   */}
                 </ul>
