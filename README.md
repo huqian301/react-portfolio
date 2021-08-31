@@ -13,7 +13,7 @@
 
 ## Project links
 <li>GitHub link: https://github.com/huqian301/react-portfolio<br/></li>
-<li>Heroku link: https://react-portfolio-qian.herokuapp.com/</li>
+<li>Heroku link: https://qianify.herokuapp.com/</li>
 
 ## Built With
 + [jQuery](https://jquery.com/) - <code>jQuery</code> is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
